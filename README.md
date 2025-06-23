@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abkrumar
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on any project related to python
+- 💞️ I’m looking to collaborate on any project related to python especially in relation to bioinformatic research
 - 📫 How to reach me ... user name "@Abkrumar"
 - 😄 Pronouns: ...
 - ⚡ Fun fact: import this 
